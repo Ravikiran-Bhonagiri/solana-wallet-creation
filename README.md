@@ -15,8 +15,8 @@ There are no formal blockchain or Web 3 prerequisites for this tutorial, but you
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [Node](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/getting-started/install) installed. Then clone the repo and run the `yarn` command to install the app dependencies:
 
 ```
-git clone https://github.com/figment-networks/wallet-tutorial.git
-cd wallet-tutorial
+git clone https://github.com/Ravikiran-Bhonagiri/solana-wallet-creation.git
+cd solana-wallet-tutorial
 yarn
 ```
 
@@ -43,11 +43,5 @@ event - compiled successfully
 
 You can now view the running application at [http://localhost:3000](http://localhost:3000)
 
-## 🔩 Designed by Figment Learn
-Our goal at [Figment Learn](https://learn.figment.io/) is to build the best resources for developers learning about and building in Web 3. We really hope you enjoy the tutorial and thanks for checking it out. **WAGMI!**
 
-Learn more about [Figment](https://figment.io/) and [Figment Learn](https://learn.figment.io/).
-
-[Join us on Discord](https://discord.com/invite/fszyM7K) if you have any feedback or questions!
-
--- The Figment Learn Team
+## 🔩 Hands-on done from Figment Learning
